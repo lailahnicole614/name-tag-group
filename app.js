@@ -15,7 +15,7 @@ console.log('nameDisplay', nameDisplay);
 submitBtn.addEventListener('click', () => {
     console.log('clicking the button');
     nameDisplay.textContent = nameInput.value;
-    nameInput.value = ' ';
+    nameInput.value = '';
 });
 
 /* Display Functions */

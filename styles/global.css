@@ -33,3 +33,11 @@ header .logo {
 main {
     padding: 20px;
 }
+
+h2 {
+    color: plum;
+}
+
+p {
+    color: purple;
+}
