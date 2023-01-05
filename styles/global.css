@@ -33,3 +33,21 @@ header .logo {
 main {
     padding: 20px;
 }
+
+h2 {
+    color: plum;
+    text-align: center;
+}
+
+p {
+    color: purple;
+    text-align: center;
+}
+
+#name-tag {
+    background: green;
+    width: 300px;
+    border: 5px solid yellow;
+    border-radius: 1.5em;
+    
+}
